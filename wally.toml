@@ -1,6 +1,6 @@
 [package]
 name = "qromp/roact-router"
-version = "1.0.0"
+version = "1.0.1"
 registry = "https://github.com/qromp/wally-index"
 realm = "shared"
 
