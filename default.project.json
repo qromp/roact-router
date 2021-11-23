@@ -1,6 +1,6 @@
 {
-	"name": "RoactRouter",
-	"tree": {
-		"$path": "src"
-	}
+  "name": "roact-router",
+  "tree": {
+    "$path": "src"
+  }
 }
