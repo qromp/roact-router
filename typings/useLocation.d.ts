@@ -1,7 +1,7 @@
-import { Hooks } from "./hooks"
+import { Hooks } from "./hooks";
 
-import { HistoryEntry } from "./History"
+import { HistoryEntry } from "./History";
 
-declare function useLocation(hooks: Pick<Hooks, "useContext">): HistoryEntry
+declare function useLocation(): HistoryEntry;
 
-export = useLocation
+export = useLocation;
